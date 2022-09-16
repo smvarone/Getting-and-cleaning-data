@@ -23,5 +23,5 @@ The R script called run_analysis.R does the following:
 
 # Variables
 
-$X_train$, $Y_train$, $X_test$, $Y_test$, $subject_train$ and $subject_test$ contain the data from the downloaded files from the UCI HAR Dataset.
-$features$ contains the names for the $X_data$ set.
+´X_train´, ´Y_train´, ´X_test´, ´Y_test´, ´subject_train´ and ´subject_test´ contain the data from the downloaded files from the UCI HAR Dataset.
+´features´ contains the names for the ´X_data´ set.
